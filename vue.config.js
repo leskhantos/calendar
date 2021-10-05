@@ -1,5 +1,4 @@
 module.exports = {
-  publicPath: '/calendar/',
   pluginOptions: {
     quasar: {
       importStrategy: 'kebab',
